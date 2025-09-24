@@ -1,5 +1,4 @@
 # Healthcare-Diagnosis-with-Medical-Imaging
-@devcode-X
 
 ## What are AI-powered medical imaging applications? 
 Aim of medical imaging is to capture abnormalities using image processing and machine learning techniques. Application areas can be divided into sub-branches such as the diagnosis of various diseases and medical operation planning. The top applications of AI-powered medical imaging are:
@@ -163,4 +162,5 @@ by up-sampling conv layer 2 x 2
 Thank You.
 Hope you able to understand every point, concept & Architeture.
 for more info do contact me
+
 
